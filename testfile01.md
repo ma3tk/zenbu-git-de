@@ -7,3 +7,4 @@ this hoge file
 goreajgoreja
 greaoigjreaoj
 aiueo
+tai
